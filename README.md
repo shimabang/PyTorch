@@ -1,6 +1,6 @@
 # Learn PyTorch for Deep Learning
 
-Welcome to the [Zero to Mastery Learn PyTorch for Deep Learning course](https://dbourke.link/ZTMPyTorch), the second best place to learn PyTorch on the internet (the first being the [PyTorch documentation](https://pytorch.org/docs/stable/index.html)).
+Welcome to the second best place to learn PyTorch on the internet (the first being the [PyTorch documentation](https://pytorch.org/docs/stable/index.html)).
 
 <div align="center">
     <a href="https://learnpytorch.io">
